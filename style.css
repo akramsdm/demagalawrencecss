@@ -1,0 +1,39 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 36px;
+    color: aliceblue;
+}
+a:hover{
+    color:  blue;
+    background-color: aliceblue;
+}
+.btn{
+    align-items: center;
+    padding-left: 50px;
+
+}
+img{
+    height: 65px;
+    width: 50px;
+    margin-left: 35px;
+}
+pic{
+    height: 65px;
+    width: 50px;
+    margin-left: 35px;
+}
